@@ -1,5 +1,5 @@
 ---
-title: 'Markdown to add image'
+title: 'Adding an Image'
 metaTitle: 'Markdown Test'
 metaDescription: 'A test for publishing with markdown'
 ---
@@ -14,7 +14,7 @@ Markdown to insert image into page.
 
 ### Result
 
-![Stack Overflow Answer](images/stackAnswer1.jpg)
+![Stack Overflow Answer](../images/stackAnswer1.jpg)
 
 ## Further Reading
 

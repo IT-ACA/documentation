@@ -258,6 +258,7 @@ export const baseStyles = injectGlobal`
   }
   .navBarDefault {
     background-color: #001934;
+    // background-color: #3883b4c2; test to change global css
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;

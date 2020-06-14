@@ -162,15 +162,15 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 {tweetText !== '' || githubUrl !== '' ? (
                   <li className="divider hiddenMobile"></li>
                 ) : null}
-                {config.header.social ? (
+                {/* {config.header.social ? (
                   <li className={'hiddenMobile'}>
                     <ul
                       className="socialWrapper"
                       dangerouslySetInnerHTML={{ __html: config.header.social }}
                     ></ul>
                   </li>
-                ) : null}
-                {githubUrl !== '' ? (
+                ) : null} */}
+                {/* {githubUrl !== '' ? (
                   <li className={'githubBtn'}>
                     <GitHubButton
                       href={githubUrl}
@@ -180,7 +180,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                       Star
                     </GitHubButton>
                   </li>
-                ) : null}
+                ) : null} */}
                 <li>
                   <DarkModeSwitch
                     isDarkThemeActive={isDarkThemeActive}
