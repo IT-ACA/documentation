@@ -1,10 +1,8 @@
 ---
-title: 'Test'
+title: 'Markdown to add image'
 metaTitle: 'Markdown Test'
 metaDescription: 'A test for publishing with markdown'
 ---
-
-# Markdown to add image
 
 ### Description
 
@@ -18,10 +16,6 @@ Markdown to insert image into page.
 
 ![Stack Overflow Answer](images/stackAnswer1.jpg)
 
-## Lists
+## Further Reading
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+todo
